@@ -1,0 +1,65 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="Current" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <_LastSelectedProfileId>C:\Users\Charo\OneDrive\Desktop\baltes\OneTouchCheck\Properties\PublishProfiles\FolderProfile.pubxml</_LastSelectedProfileId>
+  </PropertyGroup>
+  <ItemGroup>
+    <Compile Update="Archive.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Changepass.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cmbok.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="cmbyesno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ForgotPassword.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Form2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HeadTeacherAdd.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="HeadTeacherManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Login.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="NotificationPopupForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="ReportA.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherAddStud.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherHome.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="Attendance.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminCreate.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="AdminManage.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherStrand11.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherStrand12.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Update="TeacherSubject.cs">
+      <SubType>Form</SubType>
+    </Compile>
+  </ItemGroup>
+</Project>
